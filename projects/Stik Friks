@@ -1,39 +1,39 @@
+
 [
   {
-    "project": "Stik Friks",
-    "tags": [
-      "Stik Friks",
-      "Stik Frik",
-      "StikFriks",
-      "StikFrik"
-    ],
+    "project": "Stik Friks - OG Friks",
     "policies": [
       "48766b78dbb52c7fc4617acf4503a9f40b2f0fb3448ba0ab0e1fda09"
     ]
   },
   {
-    "project": "Stik Friks - FrikOWeen",
-    "tags": [
-      "Stik Friks",
-      "Stik Frik",
-      "StikFriks",
-      "Halloween",
-      "StikFrik"
-    ],
+    "project": "Stik Friks - Test Frik",
     "policies": [
-      "b271482d14d9d72619f95f4a5181a364e9bede84939d9d3a15d4206a"
+      "82594061b1013933bbcc0e326f5fa33e1efb015e907abef4f70ac5f3"
     ]
   },
   {
-    "project": "Stik Friks - Rewards",
-    "tags": [
-      "Stik Friks",
-      "Stik Frik",
-      "StikFriks",
-      "StikFrik"
-    ],
-    "policies": [
-      "db9092a340fa079b9ec6066b646046efc0f846e96abf7eeb5f3959e0"
-    ]
+      "project": "Stik Friks - Frik Strips",
+      "policies": [
+        "0f1c8c9f8964fdf1375c6c00d6f66df5cb6245dea776db2672a8719f"
+     ]
+  },
+    {
+      "project": "Stik Friks - FrikOWeen",
+      "policies": [
+        "b271482d14d9d72619f95f4a5181a364e9bede84939d9d3a15d4206a"
+     ]
+  },
+    {
+      "project": "Stik Friks - Rewards",
+      "policies": [
+        "db9092a340fa079b9ec6066b646046efc0f846e96abf7eeb5f3959e0"
+     ]
+  },
+    {
+      "project": "Stik Friks - Frikmas",
+      "policies": [
+        "b63c0b4fa908598bce9af8e898f81482e8cdf1e0d61ccd26836afcf8"
+     ]
   }
 ]
